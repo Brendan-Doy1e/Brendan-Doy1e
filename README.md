@@ -1,6 +1,6 @@
 # Brendan Doyle 👨‍💻
 
-### 🌍 West Coast Canada | 📧 [brendan-doyle@hotmail.com](mailto:brendan-doyle@hotmail.com) | 💼 [LinkedIn](linkedin.com/in/brendan-j-doyle) | 🐙 [GitHub](github.com/Brendan-Doy1e)
+### 🌍 West Coast Canada | 📧 [brendan-doyle@hotmail.com](mailto:brendan-doyle@hotmail.com) | 💼 [LinkedIn](linkedin.com/in/brendan-j-doyle) 
 
 ---
 
