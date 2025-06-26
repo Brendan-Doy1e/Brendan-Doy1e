@@ -2,14 +2,12 @@
 
 ### West Coast Canada | [brendan-doyle@hotmail.com](mailto:brendan-doyle@hotmail.com) | [LinkedIn](linkedin.com/in/brendan-j-doyle) 
 
----
 
 ## Hey there!
 I'm Brendan, a Computer Systems Technology grad from BCIT, with a foundation in software development, data analysis, IT operations, support, and cloud services. I’ve worked on development projects, IT systems, cloud administration, database migration and hands-on troubleshooting. I'm always looking to grow my skills, especially in cybersecurity, data science, and cloud infrastructure.
 
 Outside of tech, I'm passionate about golf, travel, video games, warhammer, and adventure sports.
 
----
 
 ## Certifications
 
@@ -17,7 +15,6 @@ Outside of tech, I'm passionate about golf, travel, video games, warhammer, and 
 - Microsoft Certified: Azure Fundamentals (AZ-900)
 - Microsoft Certified: Azure Administrator Associate (AZ-104)
 
----
 
 ## Technical Skills
 - **Languages:** TypeScript, JavaScript, C#, C, C++, SQL, Java, CSS, HTML, R
@@ -25,7 +22,6 @@ Outside of tech, I'm passionate about golf, travel, video games, warhammer, and 
 - **Tools:** Git, GitHub, PostgreSQL, pgAdmin, MongoDB, Docker, VS Code, JetBrains IDEs, RStudio
 - **Workflows:** Agile Methods, Scrum, Trello, Figma, Git Issues, Slack, Jira
 
----
 
 ## Projects
 
@@ -41,13 +37,11 @@ Outside of tech, I'm passionate about golf, travel, video games, warhammer, and 
 - **Description:** Social platform for students to connect, create groups, and chat.
 - **Tech Stack:** JavaScript, Bootstrap, HTML, CSS, Firebase
 
----
 
 ## Education
 
 - **Computer Systems Technology Diploma** - BCIT, Sept 2022 - June 2024
 
----
 
 ## Interests
 
@@ -58,6 +52,5 @@ Outside of tech, I'm passionate about golf, travel, video games, warhammer, and 
 - **Video Games**
 - **Warhammer**
 
----
 
 Feel free to connect with me on [LinkedIn](linkedin.com/in/brendan-j-doyle)
